@@ -1,0 +1,17 @@
+{
+  "name": "twitch-analytics",
+  "version": "1.0.0",
+  "description": "A Twitch consumer that generates useful analytics for streamers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Ferraro <the.nick.ferraro@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "socket.io-client": "2.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "6.1.0"
+  }
+}
